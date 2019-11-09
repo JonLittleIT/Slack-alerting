@@ -11,12 +11,12 @@ def main():
   
   color = 'good'
   message = {
-    'username': 'Chef Guy',
+    'username': 'GD Alert',
     'color': color,
     'ICON_URL': ICON_URL,
     'fields': [
       {
-        'title': "AMI is ready",
+        'title': "guard duty alert",
         'short': True
       }
     ]
