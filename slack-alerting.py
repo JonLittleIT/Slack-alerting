@@ -9,7 +9,7 @@ def main():
   WEBHOOK_URL = os.environ['WEBHOOK_URL']
   ICON_URL = os.environ['ICON_URL']
   
-  color = 'good'
+  color = 'green'
   message = {
     'username': 'GD Alert',
     'color': color,
